@@ -1,0 +1,20 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Justlovesmile的主页",
+    "home_page_url": "https://www.justlovesmile.top",
+    "feed_url": "https://www.justlovesmile.top/feed.json",
+    "items": [
+        {
+            "id": "https://www.justlovesmile.top/",
+            "url": "https://www.justlovesmile.top/",
+            "title": "Home",
+            "date_modified": "2021-02-15T15:20:59.912Z"
+        },
+        {
+            "id": "https://www.justlovesmile.top/about/",
+            "url": "https://www.justlovesmile.top/about/",
+            "title": "关于主页",
+            "date_modified": "2021-02-15T15:20:59.913Z"
+        }
+    ]
+}
